@@ -1,0 +1,17 @@
+{
+  "name": "korpus",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "^0.31.0",
+    "react-native-action-button": "^1.1.11",
+    "react-native-drawer": "^2.2.6",
+    "react-native-material-kit": "^0.3.2",
+    "react-native-router-flux": "^3.32.0",
+    "react-native-vector-icons": "^2.0.3"
+  }
+}
